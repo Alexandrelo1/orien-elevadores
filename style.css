@@ -1,0 +1,52 @@
+body{
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+
+/* Nav Bar */
+
+.container-fluid{
+  background-color: #3b2e5a;
+  color: #fff;
+  width: 100%;
+  font-size: 1.4rem;
+  font-family: 'Open Sans';
+}
+
+.top-bar-img{
+  padding-top: 1rem;
+  width: 18%;
+}
+
+.navbar{
+  padding: 0 7rem 0 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+
+/* Sobre nós */
+
+h1{
+  font-family: 'Open Sans';
+  color: #39375b;
+  line-height: 2;
+}
+
+p{
+  padding-top: 1rem;
+  font-size: 1.2rem;
+}
+
+.sobrenos{
+  padding: 1.5rem 4.5rem;
+  background-color: #f1f3f8;
+}
+
+.sobrenos-img{
+  width: 60%;
+  border-radius: 2%;
+}
